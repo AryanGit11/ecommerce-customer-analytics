@@ -47,7 +47,7 @@ An e-commerce company suspects they are losing customers but have no visibility 
 - 🔴 **At Risk segment (1,551 customers)** has highest avg revenue of £6,271 — nearly double Champions
 - 🟡 **December cohorts show 12-month retention spikes** — seasonal buyers misclassified as churned
 - 🟡 **1,122 Recent Customers** haven't returned yet — first-to-second purchase conversion is critical
-- 🌍 **United Kingdom dominates at £14.3M** out of £17.37M total — geographic concentration risk
+- 🌍 **United Kingdom dominates at 14.3M** out of 17.37M total — geographic concentration risk
 
 ---
 
