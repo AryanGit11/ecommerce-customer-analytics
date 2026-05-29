@@ -52,12 +52,14 @@ An e-commerce company suspects they are losing customers but have no visibility 
 ---
 
 ## 📁 Repository Structure
+```
 ├── Customer_Analytics.ipynb    # Main Jupyter notebook
 ├── queries.sql                 # SQL analysis queries
 ├── cleaned_online_retail.csv   # Cleaned transaction data
 ├── rfm_segments.csv            # RFM segmentation output
 ├── dashboard.pdf               # Power BI dashboard export
 └── README.md                   # Project documentation
+```
 
 **Dataset:** Online Retail II — [Download from UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 
